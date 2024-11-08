@@ -1,4 +1,4 @@
-<a align="center" href="https://github.com/SrVeraCruz" target="_blank">Click Navigate to the oficial account!</a>
+<a align="center" href="https://github.com/SrVeraCruz" target="_blank">Click to Navigate to the oficial account!</a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrVeraCruz.SrVeraCruz" />
  
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=40&duration=4000&lines=Hi+There!+👋;+I'm+Vera+Dúdú!;" />
